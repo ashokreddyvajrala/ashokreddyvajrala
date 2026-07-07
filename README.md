@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashok Reddy Vajrala</h1>
+<h3 align="center">Linux • Cloud • DevOps • Infrastructure</h3>
 
-<!--
-**ashokreddyvajrala/ashokreddyvajrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building reliable infrastructure, automating workflows, and continuously learning Cloud & DevOps technologies.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ashokreddyvajrala.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ashok-reddy-vajrala-699b67225/">💼 LinkedIn</a> •
+  <a href="mailto:ashokreddyvajrala2001@gmail.com">📧 Email</a>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me
+
+🎓 Master's student in Computer Science at Saint Leo University
+
+💼 IT Systems Administrator Intern
+
+🐧 Passionate about Linux, Infrastructure, Cloud, DevOps, and Data Center technologies
+
+🤖 Currently building **ChanOps.ai**, an AI-powered Linux & Infrastructure Operations assistant
+
+🌱 Currently learning
+
+- AWS
+- Docker
+- Terraform
+- Kubernetes
+- CI/CD
+- Advanced Linux Administration
+
+🎯 Career Goal
+
+Cloud Engineer • DevOps Engineer • Infrastructure Engineer • Linux Systems Administrator • Site Reliability Engineer
+
+---
+
+# 🚀 Current Focus
+
+- Linux System Administration
+- Cloud Infrastructure (AWS)
+- Infrastructure Automation
+- Python & Bash Scripting
+- Production Support
+- Data Center Operations
+- Building production-ready projects
+
+---
+
+# 🛠️ Tech Stack
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### Infrastructure
+
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📂 Featured Projects
+
+🚧 ChanOps.ai
+
+AI-powered Linux & Infrastructure Operations Assistant
+
+Coming Soon...
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- 📧 ashokreddyvajrala2001@gmail.com
+
+---
+
+> *"Always building. Always learning. Always improving."*
