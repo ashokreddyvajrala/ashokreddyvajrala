@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashok Reddy Vajrala</h1>
-<h3 align="center">Linux • Cloud • DevOps • Infrastructure</h3>
+<h3 align="center">Linux | Cloud | DevOps | Infrastructure</h3>
 
 <p align="center">
 Building reliable infrastructure, automating workflows, and continuously learning Cloud & DevOps technologies.
 </p>
-
+<p align="center">
+🚀 IT Systems Administrator | Building ChanOps.ai | Learning AWS, Docker, Terraform & Kubernetes
+</p>
 <p align="center">
   <a href="https://ashokreddyvajrala.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/ashok-reddy-vajrala-699b67225/">💼 LinkedIn</a> •
   <a href="mailto:ashokreddyvajrala2001@gmail.com">📧 Email</a>
 </p>
----
 
 # 💫 About Me
 
@@ -33,20 +34,19 @@ Building reliable infrastructure, automating workflows, and continuously learnin
 
 🎯 Career Goal
 
-Cloud Engineer • DevOps Engineer • Infrastructure Engineer • Linux Systems Administrator • Site Reliability Engineer
+Building a career in Cloud, DevOps, Linux, Infrastructure, and Site Reliability Engineering.
 
 ---
 
 # 🚀 Current Focus
 
-- Linux System Administration
-- Cloud Infrastructure (AWS)
-- Infrastructure Automation
-- Python & Bash Scripting
-- Production Support
-- Data Center Operations
-- Building production-ready projects
-
+- 🐧 Linux System Administration
+- ☁️ AWS Cloud Fundamentals
+- ⚙️ Infrastructure Automation
+- 🐍 Python & Bash Scripting
+- 🖥️ Production Support
+- 🏢 Data Center Operations
+- 🚀 Building production-ready projects
 ---
 
 # 🛠️ Tech Stack
@@ -101,24 +101,16 @@ Personal portfolio showcasing my projects, technical skills, and career journey 
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashokreddyvajrala&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokreddyvajrala&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
 ---
 
 ### 📫 Let's Connect
 
 - 🌐 Portfolio:  https://ashokreddyvajrala.github.io/portfolio/
-- 💼 LinkedIn:[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME(https://www.linkedin.com/in/ashok-reddy-vajrala-699b67225/)
+- 💼 LinkedIn: [Ashok Reddy Vajrala](https://www.linkedin.com/in/ashok-reddy-vajrala-699b67225/)
 - 📧 ashokreddyvajrala2001@gmail.com
 
 ---
