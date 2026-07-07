@@ -16,7 +16,7 @@ Building reliable infrastructure, automating workflows, and continuously learnin
 
 🎓 Master's student in Computer Science at Saint Leo University
 
-💼 IT Systems Administrator Intern
+💼 IT Systems Administrator Intern @ Ambassadors Insurance Group
 
 🐧 Passionate about Linux, Infrastructure, Cloud, DevOps, and Data Center technologies
 
@@ -24,12 +24,12 @@ Building reliable infrastructure, automating workflows, and continuously learnin
 
 🌱 Currently learning
 
-- AWS
-- Docker
-- Terraform
-- Kubernetes
-- CI/CD
-- Advanced Linux Administration
+- 🐧 Advanced Linux Administration
+- ☁️ AWS
+- 🐳 Docker
+- 🏗️ Terraform
+- ☸️ Kubernetes
+- ⚙️ CI/CD
 
 🎯 Career Goal
 
@@ -85,13 +85,17 @@ Cloud Engineer • DevOps Engineer • Infrastructure Engineer • Linux Systems
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-🚧 ChanOps.ai
+### 🤖 ChanOps.ai
+AI-powered Linux & Infrastructure Operations assistant focused on automation, production support, and Cloud/DevOps workflows.
 
-AI-powered Linux & Infrastructure Operations Assistant
+**Tech:** Python • Linux • AWS • Automation
 
-Coming Soon...
+---
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing my projects, technical skills, and career journey in Linux, Cloud, DevOps, and Infrastructure.
 
 ---
 
@@ -113,8 +117,8 @@ Coming Soon...
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- 🌐 Portfolio:  https://ashokreddyvajrala.github.io/portfolio/
+- 💼 LinkedIn:[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME(https://www.linkedin.com/in/ashok-reddy-vajrala-699b67225/)
 - 📧 ashokreddyvajrala2001@gmail.com
 
 ---
